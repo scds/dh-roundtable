@@ -4,27 +4,28 @@ title: Preparation
 nav_order: 2
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+# Event Schedule
 
+## Cluster I: Data  
 
-<!--
+“Navigating the Meanders of Digital Politics in the Name of Science: The Example of Online Petitions to the UK’s Parliament” - Geraldine Castel, Associate Professor of Language and Culture, UGA
 
-# Workshop preparation 
+“GIS Applications in Greek Archaeology: Measuring the Land at Metaponto” - Spencer Pope, Associate Professor of Classics, McMaster
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
+“Critical Methodological Approaches for Digital Humanities Scholarship: A Reflection” - Andrea Zeffiro, Assistant Professor of Communication Studies and Multimedia, McMaster
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+## Cluster II: Social Media  
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+"Micro-blogging about Melanoma on Instagram: Info-communicational Competences and the Professionalised Show-casing of Cancer”  - Chloe Salles, Associate Professor of Information and Communication Science, UGA
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
+"Humanitarian” Communication on Social Network sites: Construction of a (post) Colonial Imaginary Narrative from a Gender Perspective” - Cristina Garcia Martinez, PhD Student in Hispanic Studies and Gender Studies, UGA 
 
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
+“Detecting, Characterising and Monitoring the Emergence of Proto-Communities in Online News Analysis” - Jean-Marc Francony, Associate Professor of Communication Sciences, UGA
 
--->
+## Cluster III: Teaching and Pedagogy 
+
+"Data Management and Digital Humanities Research and Education: The Case of Education Technology” - Aude Inaudi, Associate Professor of Information and Communication Sciences, UGA
+
+“Using Digital Tools to Sharpen Critical Analysis and Communication Skills in the History Classroom” - Karen Balcom, Associate Professor of History, McMaster
+
+"¯\_(ツ)_/¯": Zooming Pedagogies and Queering Academia - Alexis-Carlota Cochrane, PhD Student in Communication Studies and Media Arts, McMaster, and Theresa Kenney, PhD Candidate in English and Cultural Studies, McMaster
