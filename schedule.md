@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preparation
+title: Schedule
 nav_order: 2
 ---
 
