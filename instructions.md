@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Getting Started
+title: Data
 nav_order: 3
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+This cluster includes three presentations, followed by a discussion period. The presentations are:
 
-<!--
+“Navigating the Meanders of Digital Politics in the Name of Science: The Example of Online Petitions to the UK’s Parliament” - Geraldine Castel, Associate Professor of Language and Culture, UGA
 
-After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
+“GIS Applications in Greek Archaeology: Measuring the Land at Metaponto” - Spencer Pope, Associate Professor of Classics, McMaster
+
+“Critical Methodological Approaches for Digital Humanities Scholarship: A Reflection” - Andrea Zeffiro, Assistant Professor of Communication Studies and Multimedia, McMaster
 
 ## Workshop recording
 
@@ -17,16 +19,3 @@ After ensuring that you've followed the [Preparatory steps](preparation), open T
 View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
 
 
-## Workshop slides
-
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
-[Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
-<br>
-
-## Worksheets
-**Coming soon!**
-
-
--->
