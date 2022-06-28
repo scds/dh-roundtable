@@ -14,6 +14,6 @@ How can digital tools enhance and complexify research in the humanities and soci
 
 These presentations engage with a wide variety of approaches, disciplines, and research methods. Learn about how digital platforms sharpen students' communication skills. Engage with the challenges of analyzing a massive digital database of e-petitions. See how GIS technology is reviving an ancient Greek city. Take a closer look at how NGOS represent women in online imagery. Explore how memes challenge academic posturing on Zoom. 
 
-The roundtable is divided into three clusters: Data, Social Media, and Teaching and Pedagogy. Each cluster includes a discussion period. 
+The roundtable is divided into three clusters: [Data](https://scds.github.io/dh-roundtable/data.html), [Social Media](https://scds.github.io/dh-roundtable/social-media.html), and [Teaching and Pedagogy](https://scds.github.io/dh-roundtable/Teaching.html). Each cluster includes a discussion period. 
 
-Browse the complete event schedule. Watch each cluster by clicking the links above.  
+Browse the complete [event schedule](https://scds.github.io/dh-roundtable/schedule.html). Watch each cluster by clicking the links above.  
