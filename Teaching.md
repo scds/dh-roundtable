@@ -19,5 +19,7 @@ This cluster includes three presentations, followed by a discussion period. The 
 
 View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
 
+## Links
 
+Access Karen Balcom's [materials on teaching](https://bit.ly/3N8qOd8).
 
