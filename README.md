@@ -1,7 +1,7 @@
 DH Research Roundtable
 Materials for the Special Event: Digital Tools in the Humanities and Social Sciences: A Research Roundtable
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dh-roundtable) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [event webpage](https://scds.github.io/dh-roundtable) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
