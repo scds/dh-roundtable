@@ -15,9 +15,9 @@ This cluster includes three presentations, followed by a discussion period. The 
 
 ## Event Recording
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/6a9b84cb-48c6-4168-b4dc-29a9389bc46a/public"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/6a9b84cb-48c6-4168-b4dc-29a9389bc46a/public).
 
 ## Link
 
