@@ -13,4 +13,4 @@ These presentations engage with a wide variety of approaches, disciplines, and r
 
 The roundtable is divided into three clusters: Data, Social Media, and Teaching and Pedagogy. Each cluster includes a discussion period. 
 
-Browse the complete event schedule, including paper abstracts. Watch each cluster by clicking the links above. 
+Browse the complete event schedule. Watch each cluster by clicking the links above. 
