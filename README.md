@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+DH Research Roundtable
+Materials for the Special Event: Digital Tools in the Humanities and Social Sciences: A Research Roundtable
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dh-roundtable) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Karen Balcom, Jay Brodeur, Alexis Carlota-Cochrane, Geraldine Castel, Jean-Marc Francony, Cristina Garcia Martinez, Aude Inaudi, Theresa Kennery, Spencer Pope, Chloe Salles, and Andrea Zeffiro
+- Content edited for online use by Veronica Litt
+- Online pages created by Veronica Litt
 
 
   
