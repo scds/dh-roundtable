@@ -1,19 +1,16 @@
 ---
 layout: home
 title: Home
-description: SCDS Do More with Digital Scholarship workshop series
+description: SCDS Special Events
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+# Welcome to Digital Tools in the Humanities and Social Sciences: A Research Roundtable
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+How can digital tools enhance and complexify research in the humanities and social sciences? At this research roundtable, ten scholars from McMaster University and Universite Grenoble Alpes share their work in the Digital Humanities and Social Sciences.
 
-# Welcome to Data Visualization with Tableau. 
+These presentations engage with a wide variety of approaches, disciplines, and research methods. Learn about how digital platforms sharpen students' communication skills. Engage with the challenges of analyzing a massive digital database of e-petitions. See how GIS technology is reviving an ancient Greek city. Take a closer look at how NGOS represent women in online imagery. Explore how memes challenge academic posturing on Zoom. 
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+The roundtable is divided into three clusters: Data, Social Media, and Teaching and Pedagogy. Each cluster includes a discussion period. 
 
-Proceed to the [Preparation](preparation) page to get started.
--->
-
+Browse the complete event schedule, including paper abstracts. Watch each cluster by clicking the links above. 
