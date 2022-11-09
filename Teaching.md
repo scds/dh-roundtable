@@ -21,4 +21,4 @@ View the original [here](https://echo360.ca/media/6a9b84cb-48c6-4168-b4dc-29a938
 
 ## Link
 
-Access Karen Balcom's [materials on teaching](https://bit.ly/3N8qOd8).
+Access Karen Balcom's [materials on teaching](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/balcomk_mcmaster_ca/EqfTC_2AFVpJvn6YJ6Z8swgBFk0Y3hiuysI2x9A4ExaTWg?e=k0VcdR).
